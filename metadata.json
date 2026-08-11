@@ -1,0 +1,6 @@
+{
+  "name": "HavenHome - Affordable Housing Portal",
+  "description": "An accessible platform connecting low-income families with affordable housing, featuring location search, AMI eligibility calculator, and step-by-step application portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
